@@ -1,9 +1,7 @@
 # Detecting-Brain-Neuronal-Movement-using-Histogram-of-Oriented-Gradients
 Uses brain MRImages from various diseases like Fatal Stroke, Tumor, Alzheimers etc..
-
-The interface notebook is a sample notebook represents how HOG features are extracted and how svm is used for prediction of a disease.
-
-The CodeInterface notebook uses tkinter, customTkinter, tkCaledar to create a GUI
+<br>The interface notebook is a sample notebook represents how HOG features are extracted and how svm is used for prediction of a disease.<br>
+The CodeInterface notebook uses joblib to save the trained model.
 
 <p> Abstract:
 
